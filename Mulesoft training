@@ -1,0 +1,28 @@
+MuleSoft Development Fundamentals :
+
+This self-paced course is for developers and architects who want to get hands-on experience using Anypoint Platform to build APIs and 
+
+integrations. In the first part, students use Anypoint Platform discover, consume, design, build, deploy, manage, and govern APIs. In the second 
+
+part, students focus on using Mule and Anypoint Studio to build applications for use as API implementations and/or integrations
+
+FLOW DESIGN :
+
+This self-study course is for people that work with data and want to get hands-on experience using the new web-based flow designer in Design 
+
+Center to build integrations that connect systems quickly and easily.
+software company headquartered in San Francisco, California that provides integration software for connecting applications, data and devices.
+
+Mule is an event-based architecture, Actions within a Mule network are triggered by either event occurring in Mule or external systems. Mulesoft 
+
+events always contain some sort of data, the payload. The payload is used or manipulated by components and a set of properties that are associated 
+
+with the processing of the event. These properties are arbitrary can be set at any time from when the event was created. The data in the event can 
+
+be accessed in its original state or in its transformed state. The event will use the transformer associated with the Endpoint that received the 
+
+event to transform its payload into a format that the receiving component understands.
+
+FOR MORE DETAILS VISIT : <a href="https://svrtechnologies.com">E Learning IT Portal</a>
+URL : <a href="https://svrtechnologies.com/mulesoft-training">mulesoft training course</a>
+Contact : 988 502 2027
